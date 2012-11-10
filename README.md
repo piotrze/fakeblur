@@ -31,7 +31,7 @@ $('#some-div-over-other-elements').fakeblur({})
   draggable: false,
   debug: false
 }
-``
+```
 
 
 
